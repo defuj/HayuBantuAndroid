@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534579401215",
+    "project_id": "hayu-bantu",
+    "storage_bucket": "hayu-bantu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534579401215:android:4649a859510ccbe3fb57ca",
+        "android_client_info": {
+          "package_name": "id.co.sadigit.hayubantu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534579401215-n17eh0l2d31umvpi5ibaj35mtfb6pmgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAneB0gycFGVDkw0M39t4IiohecijLIwbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534579401215-n17eh0l2d31umvpi5ibaj35mtfb6pmgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
